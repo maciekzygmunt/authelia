@@ -5,6 +5,7 @@
 ^authelia$
 ^.git\/
 ^.claude\/
+^.superpowers\/
 ^.github\/workflows\/.*\.yml
 ^.idea\/
 ^.*\/node_modules/.*$
